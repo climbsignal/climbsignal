@@ -13,7 +13,7 @@ ClimbSignal builds lean, conversion-focused WordPress websites, custom WooCommer
 
 ### Connect With ClimbSignal
 - 🌐 **Website:** [https://climbsignal.in](https://climbsignal.in/)
-- 📅 **Book Discovery Call:** [Schedule via FluentBooking](https://climbsignal.in/?fluent-booking=calendar&host=climbsignal&event=website-discovery-call)
+- 📅 **Book Discovery Call:** [Schedule a Discovery Call](https://climbsignal.in/?fluent-booking=calendar&host=climbsignal&event=website-discovery-call)
 - 📊 **Free Website Audit:** [climbsignal.in/free-website-review](https://climbsignal.in/free-website-review/)
 - 💼 **LinkedIn:** [company/climbsignal](https://www.linkedin.com/company/climbsignal/)
 - 🆇 **X / Twitter:** [@ClimbSignal](https://x.com/ClimbSignal)
