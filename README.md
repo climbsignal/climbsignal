@@ -1,16 +1,20 @@
-## Hi there 👋
+# ClimbSignal (@climbsignal)
 
-<!--
-**climbsignal/climbsignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **High-Performance WordPress, Gutenberg & Search Engineering Studio**  
+> Official Website: [climbsignal.in](https://climbsignal.in/) | Founder: [Praveen Miriyala](https://climbsignal.in/about/)
 
-Here are some ideas to get you started:
+ClimbSignal builds lean, conversion-focused WordPress websites, custom WooCommerce systems, and technical SEO architectures designed to rank and convert without heavy builder bloat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What We Engineer
+- ⚡ **Gutenberg & Block-First Development:** Sub-second load times & 95+ Core Web Vitals without bloated page builders.
+- 🛒 **WooCommerce Systems:** Clean product taxonomy, schema architecture, and optimized checkout funnels.
+- 🔍 **Technical & On-Page SEO:** Search-ready crawl controls, entity graphs, and programmatic performance.
+- 🛡️ **Care & Migration:** Zero-downtime cutovers, security hardening, and ongoing maintenance.
+
+### Connect With ClimbSignal
+- 🌐 **Website:** [https://climbsignal.in](https://climbsignal.in/)
+- 📅 **Book Discovery Call:** [Schedule via FluentBooking](https://climbsignal.in/?fluent-booking=calendar&host=climbsignal&event=website-discovery-call)
+- 📊 **Free Website Audit:** [climbsignal.in/free-website-review](https://climbsignal.in/free-website-review/)
+- 💼 **LinkedIn:** [company/climbsignal](https://www.linkedin.com/company/climbsignal/)
+- 🆇 **X / Twitter:** [@ClimbSignal](https://x.com/ClimbSignal)
+- 📍 **HQ:** Visakhapatnam, Andhra Pradesh, India (MSME Udyam: UDYAM-AP-10-0152913)
